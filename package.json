@@ -3,9 +3,7 @@
   "version": "0.0.0-semantic-release-managed",
   "description": "",
   "main": "dist/index.js",
-  "scripts": {
-    "build": "tsc --build ."
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/semantic-release-extras/test-verified-git-commit.git"
