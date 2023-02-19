@@ -22,7 +22,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@semantic-release-extras/verified-git-commit": "1.0.1"
+    "@semantic-release-extras/verified-git-commit": "1.0.2"
   },
   "devDependencies": {
     "@semantic-release/changelog": "6.0.2",
