@@ -1,0 +1,30 @@
+{
+  "name": "@semantic-release-extras/test-verified-git-commit",
+  "version": "0.0.0-semantic-release-managed",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc --build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semantic-release-extras/test-verified-git-commit.git"
+  },
+  "files": [
+    "dist/"
+  ],
+  "keywords": [],
+  "author": "Eric Crosson <eric.s.crosson@utexas.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semantic-release-extras/test-verified-git-commit/issues"
+  },
+  "homepage": "https://github.com/semantic-release-extras/test-verified-git-commit#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@semantic-release-extras/verified-git-commit": "1.0.0",
+    "semantic-release": "20.1.0"
+  }
+}
