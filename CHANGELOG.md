@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/semantic-release-extras/test-verified-git-commit/compare/v1.0.3...v1.0.4) (2023-11-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release-extras/verified-git-commit to v1.0.8 ([eae21c6](https://github.com/semantic-release-extras/test-verified-git-commit/commit/eae21c69088fdc734ffcd9af227792697583926f))
+
 ## [1.0.3](https://github.com/semantic-release-extras/test-verified-git-commit/compare/v1.0.2...v1.0.3) (2023-06-03)
 
 
